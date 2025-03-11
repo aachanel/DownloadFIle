@@ -1,0 +1,4 @@
+FTP Username: lunacybot@lunacy.aachann.my.id
+FTP Pass: lunacy321
+FTP server:  ftp.aachann.my.id
+FTP & explicit FTPS port:  21
